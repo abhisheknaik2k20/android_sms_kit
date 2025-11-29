@@ -1,0 +1,32 @@
+# Git files
+.git/
+.gitignore
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# Build files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Test files
+coverage/
+test/
+
+# Example app (if you don't want to include it)
+# example/
+
+# Documentation build files
+doc/api/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~

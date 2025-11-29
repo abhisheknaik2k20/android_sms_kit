@@ -26,7 +26,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  android_sms_kit: ^0.0.1
+  android_sms_kit: ^0.0.2
 ```
 
 Then run:

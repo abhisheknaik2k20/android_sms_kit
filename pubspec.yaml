@@ -1,9 +1,9 @@
 name: android_sms_kit
 description: A powerful Flutter plugin for reading SMS messages on Android. Features include permission management, transaction SMS filtering, and flexible SMS data retrieval.
-version: 0.0.1
-homepage: https://github.com/yourusername/android_sms_kit
-repository: https://github.com/yourusername/android_sms_kit
-issue_tracker: https://github.com/yourusername/android_sms_kit/issues
+version: 0.0.2
+homepage: https://github.com/abhisheknaik2k20/android_sms_kit
+repository: https://github.com/abhisheknaik2k20/android_sms_kit
+issue_tracker: https://github.com/abhisheknaik2k20/android_sms_kit/issues
 
 environment:
   sdk: ">=3.5.4 <4.0.0"
@@ -32,3 +32,4 @@ topics:
   - messages
   - permission
   - transaction
+  - banking
